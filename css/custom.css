@@ -1,0 +1,50 @@
+th{
+	background-color: #007fff;
+	color: #ffffff;
+	text-align: center; 
+	font-weight: normal;
+}
+
+.modal-header{
+	
+}
+
+.h3-modal-header{
+	color: #ffffff;
+}
+
+input{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-image:url(../images/pattern.png); 
+	font-family:'Segoe UI'; 
+	height: 100%;
+}
+
+.paneleverything{
+	background-color: #ffffff; 
+	padding: 10px; 
+	box-shadow: 0 0 7px #ababab;
+}
+
+.modal-dg {
+ width: 100%;
+  height: 100%;
+  padding: 0;
+  float: left;
+}
+.modal-ctt {
+  height: 100%;
+  border-radius: 0;
+  position:relative;
+}
+
+.modal-ftt {
+  border-radius: 0;
+  bottom:0px;
+  position:absolute;
+  width:100%;
+}
